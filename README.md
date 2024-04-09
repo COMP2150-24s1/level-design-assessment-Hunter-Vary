@@ -91,8 +91,8 @@ Doors are used in a similar way to gates to bar movement in certain directions w
 Iterative design helped me improve my level by refining ideas from a concept to a prototype, and all the way to a final functional level. When designing the encounters I would first begin with conceptualising what I wanted the particular challenge to be. An example of this is an encounter where I wanted the player to use a moving platform in order to descend a tight area where the player would have to avoid the attacks of spitters. From this concept I would sketch out a rough design of what the encounter would look like.
 ![Elevator Sketch](DocImages/elevatorsketch.png)
 I would then refer to my in-progress level map to see where the encounter could fit into the design and when it could logically occur. Once I had decided the place for the encounter I would construct a storyboard for how the encounter would play out.
-![Elevator Sketch](DocImages/storyboardelevator.png)
+![Elevator Storyboard](DocImages/storyboardelevator.png)
 I would then create the encounter prototype in unity and playtest it. What I found was the encounter did not provide the type of challenge I wanted so I decided to expand upon the prototype by adding spikes to the level to make it more challenging for the player to avoid the spitter’s attacks while also encouraging them to get close to the spitters to attack them. After additional playtesting I was satisfied with my final result.
-![Elevator Sketch](DocImages/finaldesignelevator.PNG.png)
+![Elevator Final](DocImages/finaldesignelevator.PNG)
 An example of encounters I believe could be further iterated upon for improvement are the later encounters featuring monsters. Currently they do not feel as challenging as they should be, and steps could be taken to flesh out the level design and quantity of enemies to make them more of a threat.
 
