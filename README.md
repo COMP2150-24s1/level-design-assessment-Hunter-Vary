@@ -28,52 +28,44 @@ In the third section of the level, a large emphasis is placed on player autonomy
 ## 2. Core Gameplay
 ### 2.1. Acid
 Acid is introduced first in section one as a dangerous environmental obstacle which the player should seek to avoid. Acid is used in the level to add challenge to platforming segments.
-
+![Storyboard Acid](DocImages/storyboardacid.png)
 ### 2.2. Checkpoints
 Checkpoints are introduced during the same encounter as acid and can save the player from backtracking the entire level if they fall in acid.
-
+![Storyboard Checkpoint](DocImages/storyboardcheckpoint.png)
 ### 2.3. Moving Platforms
 Towards the end of the acid platforming encounter moving platforms are introduced to add additional challenge.
-
+![Storyboard Moving Platforms](DocImages/storyboardmovingplatform.png)
 ### 2.4. Spikes
 Spikes are introduced to add more challenge to platforming by harming players who get to close.
-
 ### 2.5. Passthrough Platforms
 Passthrough platforms are introduced as a wall the player can pass through and stand on to reach new areas.
-
 ### 2.6. Health Pickups
 Health Pickups are introduced following the spike climb encounter as a way to heal the player following tough encounters.
-
+![Storyboard Health Pickups/Passthrough Platforms/Spikes](DocImages/storyboardspikeclimb.png)
 ### 2.7. Gates (Bridges)
 Bridges have been repurposed as gates which the player can open upon activating a switch or pressure plate. These gates hold enemies and boxes, and opening can be both beneficial and detrimental to the player.
-
 ### 2.8. Pressure Plates
 Pressure plates are introduced as a device, which when activated, opens nearby gates. The pressure plate in this encounter when activated drops two chomper enemies and a box. 
-
 ### 2.9. Chompers
 Chompers are introduced before the player has a means to deal with them, making them feel like a significant threat at this stage in the level.
-
 ### 2.10. Boxes
 The box is an object the player can move by walking into it and is used at different points in the level to advance to new areas.
-
+![Storyboard Boxes/Chompers/Pressure Plates/Gates](DocImages/storyboardchomperchase.png)
 ### 2.11. Weapon Pickup (Staff)
 The staff weapon is introduced following the chomper chase encounter to relieve tension by giving the player an option to handle enemies and make them less of a threat.
-
 ### 2.12. Breakable Walls
 The player uses their newly acquired staff to destroy a wall at the end of the hallway. The introduction here is purposeful in order to intuitively teach the player how to handle such obstacles. Upon falling to the starting place, the player will be facing another breakable wall which they know how to handle. 
-
+![Storyboard Breakable Walls/Staff](DocImages/storyboardstafftutorial.png)
 ### 2.13. Spitters
-Spitters are introduced as more challenging, ranged enemies typically grouped with the chompers
-
+Spitters are introduced as more challenging, ranged enemies.
+![Storyboard Spitters](DocImages/storyboardelevator.png)
 ### 2.14. Weapon Pickup (Gun)
 The weapon is introduced as a ranged weapon that can be used to effectively defeat spitters from a distance, as well as activating switches.
-
 ### 2.15. Switches
 Switches can be fired at by the gun in order to activate gates or doors.
-
 ### 2.16. Doors
 Doors are used in a similar way to gates to bar movement in certain directions where the player must solve a puzzle to progress.
-
+![Storyboard Doors/Switches/Gun](DocImages/storyboardguntutorial.png)
 ## 3. Spatiotemporal Design
 ### 3.1. Molecule Diagram
 ![Molecule Diagram](DocImages/moleculediagram.png)
@@ -94,5 +86,6 @@ I would then refer to my in-progress level map to see where the encounter could 
 ![Elevator Storyboard](DocImages/storyboardelevator.png)
 I would then create the encounter prototype in unity and playtest it. What I found was the encounter did not provide the type of challenge I wanted so I decided to expand upon the prototype by adding spikes to the level to make it more challenging for the player to avoid the spitter’s attacks while also encouraging them to get close to the spitters to attack them. After additional playtesting I was satisfied with my final result.
 ![Elevator Final](DocImages/finaldesignelevator.PNG)
+
 An example of encounters I believe could be further iterated upon for improvement are the later encounters featuring monsters. Currently they do not feel as challenging as they should be, and steps could be taken to flesh out the level design and quantity of enemies to make them more of a threat.
 
